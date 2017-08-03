@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background-image:url("IMG_4504.jpg");
+  background-size: 1720px 1000px;
+  padding:0 !important;
+  margin: 0;
+  font-family: 'open sans', sans-serif
+}
